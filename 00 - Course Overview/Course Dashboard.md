@@ -1,10 +1,7 @@
----
-tags: [course, research-methods, dashboard]
----
 # Research Methods — Course Dashboard
 
 **University:** University of Hildesheim  
-**Lecturer in Lecture 1:** Prof. Dr. Klaus Schmid  
+**Lecturers:** Prof. Dr. Klaus Schmid; Dr. Holger Eichelberger (Metrics lecture)  
 **Field:** Software Systems Engineering
 
 ## Start here
@@ -13,6 +10,10 @@ tags: [course, research-methods, dashboard]
 - [[../06 - Exam Preparation/Question Bank|Question Bank]]
 - [[../06 - Exam Preparation/Flashcards|Flashcards]]
 
+## Lectures
+- [[../01 - Lectures/01 - Introduction/Lecture Notes|Lecture 1 — Introduction]]
+- [[../01 - Lectures/02 - Metrics/Lecture Notes|Lecture 2 — Metrics]]
+
 ## Fundamental topics
 - [[../03 - Fundamental Concepts/Research Questions|Research Questions]]
 - [[../03 - Fundamental Concepts/Research Design|Research Design]]
@@ -20,7 +21,7 @@ tags: [course, research-methods, dashboard]
 - [[../03 - Fundamental Concepts/Statistics|Statistics]]
 - [[../03 - Fundamental Concepts/Threats to Validity|Threats to Validity]]
 
-## Research methods
+## Methods
 - [[../02 - Research Methods/Human Experiments|Human Experiments]]
 - [[../02 - Research Methods/Case Studies|Case Studies]]
 - [[../02 - Research Methods/Technical Experiments|Technical Experiments]]
@@ -28,9 +29,10 @@ tags: [course, research-methods, dashboard]
 - [[../02 - Research Methods/Systematic Literature Review|Systematic Literature Review]]
 - [[../02 - Research Methods/Mapping Studies|Mapping Studies]]
 - [[../02 - Research Methods/Grounded Theory|Grounded Theory]]
+- [[../02 - Research Methods/Goal-Question-Metric (GQM)|GQM]]
 
-## Working principles
-1. Use slides and transcripts as primary course sources.
-2. Label extra explanations or outside information clearly.
-3. Link assignment answers to relevant lecture concepts.
-4. Record unresolved questions instead of silently guessing.
+## Principles
+- Treat slides and transcripts as primary sources.
+- Clearly label supplementary explanations.
+- Connect assignments to lecture concepts.
+- Record unanswered questions rather than guessing.
