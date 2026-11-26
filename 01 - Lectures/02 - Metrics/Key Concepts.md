@@ -1,0 +1,23 @@
+# Chapter 2 — Key Concepts
+
+- **Measurement:** applying a defined procedure to determine a value representing an attribute.
+- **Metric:** a defined quantitative measure used to characterize an attribute.
+- **Objective metric:** value determination is independent of the observer.
+- **Subjective metric:** determination depends on judgement.
+- **Direct metric:** obtained directly from measurement.
+- **Indirect metric:** derived from other metrics.
+- **Product metric:** characterizes a software product/artefact.
+- **Process metric:** characterizes process/activity.
+- **People metric:** characterizes people-related aspects.
+- **Nominal scale:** categories; equality only.
+- **Ordinal scale:** ordered categories; equality and ordering.
+- **Interval scale:** equal, meaningful distances; differences are meaningful, but no absolute zero.
+- **Ratio scale:** interval properties plus a meaningful zero; ratios are meaningful.
+- **Likert scale:** ordinal responses; may be approximated as interval only with assumptions.
+- **GQM:** Goal-Question-Metric, a top-down metric derivation method.
+- **GQM plan:** traceable set of goal, questions, and metrics.
+- **Planning:** preparing the measurement effort.
+- **Definition:** specifying goal, questions, and metrics.
+- **Data collection:** gathering data corresponding to the selected metrics.
+- **Interpretation:** using measurements to answer questions and assess goal attainment.
+- **Goal template:** object, purpose, quality focus, viewpoint, context.
